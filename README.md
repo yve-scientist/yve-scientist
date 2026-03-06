@@ -50,7 +50,10 @@ Large-scale data processing
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yve-scientist&show_icons=true&theme=default)
+
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yve-scientist&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yve-scientist&layout=compact&theme=tokyonight)
 
 ## 📂 Example Project Areas
 
@@ -89,6 +92,7 @@ Open science initiatives
 Data-driven policy research
 
 **⭐ Feel free to explore my repositories and connect.**
+
 
 
 
