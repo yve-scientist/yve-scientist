@@ -50,7 +50,6 @@ Large-scale data processing
 
 
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yve-scientist&show_icons=true&theme=default)
 
 ## 📂 Example Project Areas
@@ -90,6 +89,7 @@ Open science initiatives
 Data-driven policy research
 
 **⭐ Feel free to explore my repositories and connect.**
+
 
 
 
