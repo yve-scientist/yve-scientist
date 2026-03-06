@@ -41,34 +41,49 @@ SAS
 SQL
 
 **Databases**
+
 PostgreSQL
+
 MongoDB
 
 **Data Science**
+
 pandas
+
 numpy
+
 scikit-learn
 
 **Containerisation**
 Docker
 
+
 **Big Data**
 Apache Spark
 
+
 **Automation**
+
 make
+
 n8n
+
 ETL
+
 Apache Airflow
 
 **Data Analytic Tools**
+
 Power BI
+
 Excel
 
 **Projectmanagement**
+
 Scrum Master
 
 **Webapp**
+
 Streamlit
 
 
@@ -113,6 +128,7 @@ Open science initiatives
 Data-driven policy research
 
 **⭐ Feel free to explore my repositories and connect.**
+
 
 
 
