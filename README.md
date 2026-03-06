@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+👋+I'm+Yve;Data+Scientist+|+AI+Enthusiast)
+
 ## Epidemiologist | Data Scientist | Machine Learning & AI
 
 Hi, I'm an Epidemiologist and Data Scientist working at the intersection of public health, epidemiology, and data science.
@@ -91,6 +93,7 @@ Open science initiatives
 Data-driven policy research
 
 **⭐ Feel free to explore my repositories and connect.**
+
 
 
 
