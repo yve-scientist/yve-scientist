@@ -1,5 +1,5 @@
 
-## 👩‍🔬 Epidemiologist | Data Scientist | Machine Learning & AI
+## Epidemiologist | Data Scientist | Machine Learning & AI
 
 Hi, I'm an Epidemiologist and Data Scientist working at the intersection of public health, epidemiology, and data science.
 
@@ -108,7 +108,8 @@ Open science initiatives
 
 Data-driven policy research
 
-## ⭐ Feel free to explore my repositories and connect.
+** ⭐ Feel free to explore my repositories and connect.**
+
 
 
 
