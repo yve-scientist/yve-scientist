@@ -31,7 +31,6 @@ Large-scale data processing
 
 ## 🛠 Tech Stack
 **Programming**
-
 Python
 
 R
@@ -128,6 +127,7 @@ Open science initiatives
 Data-driven policy research
 
 **⭐ Feel free to explore my repositories and connect.**
+
 
 
 
