@@ -30,53 +30,23 @@ Large-scale data processing
 🌍 Interested in open science and data-driven public health
 
 ## 🛠 Tech Stack
-**Programming**: Python, R, SAS,  SQL
+**Programming**: Python, R, SAS,  SQL, NoSQL
 
-**Databases**
+**Databases**: PostgreSQL, MongoDB
 
-PostgreSQL
+**Data Science**: pandas, numpy, scikit-learn
 
-MongoDB
+**Containerisation**: Docker
 
-**Data Science**
+**Big Data**: Apache Spark
 
-pandas
+**Automation**: make, n8n, ETL, Apache Airflow
 
-numpy
+**Data Analytic Tools**: Power BI, Excel
 
-scikit-learn
+**Projectmanagement**: Scrum Master
 
-**Containerisation**
-Docker
-
-
-**Big Data**
-Apache Spark
-
-
-**Automation**
-
-make
-
-n8n
-
-ETL
-
-Apache Airflow
-
-**Data Analytic Tools**
-
-Power BI
-
-Excel
-
-**Projectmanagement**
-
-Scrum Master
-
-**Webapp**
-
-Streamlit
+**Webapp-Development**: Streamlit
 
 
 ## 📊 GitHub Stats
@@ -120,6 +90,7 @@ Open science initiatives
 Data-driven policy research
 
 **⭐ Feel free to explore my repositories and connect.**
+
 
 
 
