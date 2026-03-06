@@ -3,7 +3,7 @@
 
 Hi, I'm an Epidemiologist and Data Scientist working at the intersection of public health, epidemiology, and data science.
 
-I specialize in analyzing large-scale health data, building statistical models, and developing data-driven insights for public health decision-making.
+I specialize in analyzing large-scale (health) data, building statistical models, and developing data-driven insights for (public health) decision-making.
 
 ## 🔬 Focus areas:
 
@@ -89,6 +89,7 @@ Open science initiatives
 Data-driven policy research
 
 **⭐ Feel free to explore my repositories and connect.**
+
 
 
 
