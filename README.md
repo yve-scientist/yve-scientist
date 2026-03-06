@@ -61,7 +61,7 @@ n8n, Apache Airflow
 
 
 
-📂 Example Project Areas
+## 📂 Example Project Areas
 
 🦠 Infectious disease modeling
 
@@ -75,7 +75,7 @@ n8n, Apache Airflow
 
 🔬 Research Interests
 
-Epidemiology
+## Epidemiology
 
 Public health analytics
 
@@ -85,7 +85,7 @@ Data-driven health policy
 
 Machine learning in epidemiology
 
-🤝 Collaboration
+## 🤝 Collaboration
 
 I’m interested in collaborating on:
 
@@ -97,5 +97,6 @@ Open science initiatives
 
 Data-driven policy research
 
-⭐ Feel free to explore my repositories and connect.
+## ⭐ Feel free to explore my repositories and connect.
+
 
