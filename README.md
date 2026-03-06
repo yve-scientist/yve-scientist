@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=39FF14&center=true&vCenter=true&width=1000&lines=Hello+👋+I'm+Yvonne;Data+Scientist+|+AI+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hello+👋+I'm+Yvonne;Data+Scientist+|+AI+Enthusiast)
 
 ## Epidemiologist | Data Scientist | Machine Learning & AI
 
@@ -93,6 +93,7 @@ Open science initiatives
 Data-driven policy research
 
 **⭐ Feel free to explore my repositories and connect.**
+
 
 
 
