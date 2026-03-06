@@ -1,7 +1,3 @@
-<!-- Animierter Header SVG -->
-<img src="https://raw.githubusercontent.com/yve-scientist/your-repo/main/header.svg" alt="Animated Header" />
-
-
 ## Epidemiologist | Data Scientist | Machine Learning & AI
 
 Hi, I'm an Epidemiologist and Data Scientist working at the intersection of public health, epidemiology, and data science.
@@ -95,6 +91,7 @@ Open science initiatives
 Data-driven policy research
 
 **⭐ Feel free to explore my repositories and connect.**
+
 
 
 
