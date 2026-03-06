@@ -30,14 +30,7 @@ Large-scale data processing
 🌍 Interested in open science and data-driven public health
 
 ## 🛠 Tech Stack
-**Programming**
-Python
-
-R
-
-SAS
-
-SQL
+**Programming**: Python, R, SAS,  SQL
 
 **Databases**
 
@@ -127,6 +120,7 @@ Open science initiatives
 Data-driven policy research
 
 **⭐ Feel free to explore my repositories and connect.**
+
 
 
 
