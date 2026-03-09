@@ -35,7 +35,7 @@ Large-scale data processing
 
 **Databases**: PostgreSQL, MongoDB
 
-**Data Science**: pandas, numpy, scikit-learn
+**Data Science**: pandas, numpy, matplotlib, seaborn, scikit-learn, pytorch, tensorflow, keras
 
 **Containerisation**: Docker
 
@@ -43,7 +43,7 @@ Large-scale data processing
 
 **Automation**: make, n8n, ETL, Apache Airflow
 
-**Data Analytic Tools**: Power BI, Excel
+**Data Analytic Tools**: Power BI, Power Query in Excel
 
 **Projectmanagement**: Scrum Master
 
@@ -93,6 +93,7 @@ Open science initiatives
 Data-driven policy research
 
 **⭐ Feel free to explore my repositories and connect.**
+
 
 
 
